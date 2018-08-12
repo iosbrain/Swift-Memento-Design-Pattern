@@ -7,7 +7,7 @@ Here's the app -- resulting from building this project in Xcode -- in action:
 
 ![alt text][logo1]
 
-[logo1]: http://iosbrain.com/wp-content/uploads/2018/08/ "Memento"
+[logo1]: http://iosbrain.com/wp-content/uploads/2018/08/MementoDemoApp.gif "Memento"
 
 ## Xcode 9 project settings
 **To get this project running on the Simulator or a physical device (iPhone, iPad)**, go to the following locations in Xcode and make the suggested changes:
